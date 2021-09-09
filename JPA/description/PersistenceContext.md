@@ -46,8 +46,7 @@
       이 과정에서 플러시가 발생한다.
 
 변경 감지(Dirty checking)
----
-![](../../../../Downloads/IMG_8B2E75DA4CF8-1.jpeg)
+--
 
 
 flush
