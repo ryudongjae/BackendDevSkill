@@ -9,7 +9,9 @@
 
 엔티티의 생명주기
 ---
-![](../../../../Downloads/IMG_0093.jpg)
+![IMG_0093](https://user-images.githubusercontent.com/73993220/132699340-8a5024ec-a438-42dc-b0dd-37993c1edc02.jpg)
+
+
 ----
     1.비영속(new/transient) 
         - 영속성 컨텍스트와 전혀 관계가 없는 새로운 상태
@@ -47,8 +49,7 @@
 
 변경 감지(Dirty checking)
 ---
-![](../../../../Downloads/IMG_8B2E75DA4CF8-1.jpeg)
-
+![IMG_8B2E75DA4CF8-1](https://user-images.githubusercontent.com/73993220/132699409-ee04c988-0957-44a8-bba5-1e56cb676b82.jpeg)
 
 flush
 ---
