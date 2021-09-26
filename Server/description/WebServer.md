@@ -1,4 +1,4 @@
-WEB SERVICE
+Server
 ======
   
 💻운영 서버
