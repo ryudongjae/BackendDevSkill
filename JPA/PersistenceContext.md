@@ -9,7 +9,7 @@
 
 엔티티의 생명주기
 ---
-![](../../../../Downloads/IMG_0093.jpg)
+![](../../../Downloads/IMG_0093.jpg)
 ----
     1.비영속(new/transient) 
         - 영속성 컨텍스트와 전혀 관계가 없는 새로운 상태
@@ -47,7 +47,7 @@
 
 변경 감지(Dirty checking)
 ---
-![](../../../../Downloads/IMG_8B2E75DA4CF8-1.jpeg)
+![](../../../Downloads/IMG_8B2E75DA4CF8-1.jpeg)
 
 
 flush
